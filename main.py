@@ -1,7 +1,6 @@
 # Apple AirPods (3rd Generation) with Lightning Charging Case
 
 import requests
-import lxml
 from bs4 import BeautifulSoup
 
 URL = "https://www.amazon.ca/Apple-AirPods-3rd-Generation-Lightning-Charging/dp/B0BDHB9Y8H/ref=sr_1_2_sspa?crid=" \
